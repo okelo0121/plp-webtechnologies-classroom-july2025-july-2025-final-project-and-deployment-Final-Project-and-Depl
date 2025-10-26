@@ -183,7 +183,7 @@ Modify animation timing in CSS:
 ### **Deploy to GitHub Pages**
 1. Push to GitHub repository
 2. Settings → Pages → Deploy from main
-3. Access at `username.github.io/repo-name`
+3. Access at `username.github.io/okelo0121`
 
 ---
 
@@ -250,9 +250,9 @@ in the Software without restriction...
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- GitHub: [@yourusername](https://github.com/okelo0121)
+- LinkedIn: [Your Name](https://linkedin.com/in/okelo-angelo-5660a3362)
+- Portfolio: [yourwebsite.com](https://lakgt.github.io/okello-portfolio)
 
 ---
 
@@ -271,7 +271,7 @@ Have questions? Reach out!
 
 - 📧 Email: hello@nexastudio.com
 - 🌐 Website: [https://nexastudio-dusky.vercel.app/](https://nexastudio-dusky.vercel.app/)
-- 💬 Issues: [GitHub Issues](https://github.com/yourusername/nexastudio/issues)
+- 💬 Issues: [GitHub Issues](https://github.com/okelo0121/nexastudio/issues)
 
 ---
 
