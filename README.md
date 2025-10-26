@@ -250,9 +250,9 @@ in the Software without restriction...
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/okelo0121)
-- LinkedIn: [Your Name](https://linkedin.com/in/okelo-angelo-5660a3362)
-- Portfolio: [yourwebsite.com](https://lakgt.github.io/okello-portfolio)
+- GitHub: (https://github.com/okelo0121
+- LinkedIn: https://linkedin.com/in/okelo-angelo-5660a3362
+- Portfolio: https://lakgt.github.io/okello-portfolio
 
 ---
 
